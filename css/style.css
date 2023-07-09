@@ -1,0 +1,60 @@
+.logo{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #0055a0;
+  width: 10%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  
+}
+
+@media (max-width: 575.98px){
+.logo{
+    
+  width: 20%;
+  
+}
+}
+
+.logocontainer{
+    width: 100%;
+    background-color: #0055a0;
+}
+.nav {
+    width: 100%;
+    background-color: #0055a0;
+    
+}
+
+.nav-item {
+    text-align: center;
+    width: 33%;
+
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-item:hover{
+    background-color: lightsalmon;
+}
+
+.ImageContainer{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.container{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.col-12{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+h1{
+    padding-top: 1%;
+}
